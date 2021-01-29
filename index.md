@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## Welcome to RogerJTX's Programming Notes
 
-You can use the [editor on GitHub](https://github.com/RogerJTX/kbp_pipeline/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[editor on GitHub](https://github.com/RogerJTX/RogerJTX.github.io/edit/main/index.md) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Jekyll](https://jekyllrb.com/)
 
-### Markdown
+# My Main Notes Websites
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Main Notes Website  
+[https://rogerjtx.github.io/](https://rogerjtx.github.io/)
 
-```markdown
-Syntax highlighted code block
+Word2Vector [ELMo, Bert, ALBert]    
+[https://rogerjtx.github.io/word2vector.io/](https://rogerjtx.github.io/word2vector.io/) 
 
-# Header 1
-## Header 2
-### Header 3
+Topbase Knowledge Graph Paper Reproduction And Technical Documentation  
+[https://rogerjtx.github.io/topbase_knowledge_graph/](https://rogerjtx.github.io/topbase_knowledge_graph/)
 
-- Bulleted
-- List
+Automatic Code Generation [based on GPT-2]  
+[https://rogerjtx.github.io/auto_code_generation/](https://rogerjtx.github.io/auto_code_generation/)
 
-1. Numbered
-2. List
+Comelot Table Image Recognition   
+url:
 
-**Bold** and _Italic_ and `Code` text
+Aminer Expert Knowledge Graph  
+url:
 
-[Link](url) and ![Image](src)
-```
+Patent System Keyword Extractor    
+url:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Expert Knowledge Graph KbpPipeline
+url: 
 
-### Jekyll Themes
+Image Style Feature Fusion  
+url:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RogerJTX/kbp_pipeline/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Medical Image Recognition [COVID-19]    
+url:
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
+
+# Programming Notes Start
+
+----------------------------------------
